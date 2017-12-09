@@ -3,7 +3,7 @@
 
 int main ()
 {
-	int i, day, month, year, a, m, y, r;
+	int  day, month, year, a, m, y, r;
 
 	printf("Enter the day\n");
 	scanf("%d",&day);
